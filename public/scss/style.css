@@ -1,0 +1,560 @@
+header {
+  font-family: Apc-r;
+  height: 100px;
+  font-size: 18px;
+}
+
+header .narbar-left {
+  margin-top: 35px;
+}
+
+header .narbar-right ul {
+  list-style-type: none;
+}
+
+header .narbar-right ul li {
+  float: left;
+  padding: 30px;
+}
+
+header .narbar-right ul li a {
+  text-decoration: none;
+}
+
+header .narbar-right ul li a:hover, header .narbar-right ul li a:focus, header .narbar-right ul li a:active {
+  color: red;
+}
+
+header .narbar-right ul li .nav-frist-child {
+  color: black;
+}
+
+main {
+  text-align: center;
+  font-family: "Apc-r";
+}
+
+.section-1 {
+  overflow: hidden;
+  text-align: left;
+}
+
+.section-1 .section1-left h1 {
+  font-size: 52px;
+  padding-top: 20px;
+}
+
+.section-1 .section1-left h4 {
+  font-size: 25px;
+  padding-top: 20px;
+}
+
+.section-1 .section1-left p {
+  font-size: 20px;
+  padding-top: 20px;
+}
+
+.section-1 .section1-left a {
+  text-decoration: none;
+}
+
+.section-1 .section1-left a:hover, .section-1 .section1-left a:focus, .section-1 .section1-left a:active {
+  color: red;
+}
+
+.section-1 .section1-left p {
+  padding-bottom: 30px;
+}
+
+.section-1 .section1-left .btn-book {
+  width: 300px;
+  height: 70px;
+  padding: 20.5px 33px;
+  border: 4px solid #055ffb;
+  background-color: #055ffb;
+  font-size: 18px;
+  color: white;
+  border-radius: 4px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.section-1 .section1-left .btn-book:hover, .section-1 .section1-left .btn-book:focus, .section-1 .section1-left .btn-book:active {
+  color: black;
+}
+
+.section-1 .section1-left .btn-learn {
+  width: 174px;
+  margin-left: 20px;
+  color: #055ffb;
+  font-size: 18px;
+}
+
+.section-1 .section1-right {
+  width: 680px;
+  height: 695px;
+}
+
+.section-1 .section1-right .img-section1 {
+  width: 90%;
+  margin-top: 40px;
+  margin-left: 35px;
+}
+
+.div-block .text-block {
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 19px;
+  line-height: 34px;
+}
+
+.div-block .img-block img {
+  margin-right: 74px;
+}
+
+.div-block .img-block #img-spocket {
+  width: 161px;
+  height: 36px;
+}
+
+.div-block .img-block #img-libertypool {
+  width: 122px;
+  height: 30px;
+}
+
+.div-block .img-block #img-techstars {
+  width: 164px;
+  height: 29px;
+}
+
+.div-block .img-block #img-anonymous {
+  width: 36px;
+  height: 40px;
+}
+
+.div-block .img-block #img-coinklap {
+  width: 146px;
+  height: 30px;
+}
+
+.div-block .img-block #img-mindflix {
+  width: 121px;
+  height: 25px;
+  margin-right: 0px;
+}
+
+.section-2 {
+  margin-top: 150px;
+  text-align: left;
+}
+
+.section-2 .img-section2 {
+  width: 100%;
+}
+
+.section-2 .section2-right {
+  margin-left: 35px;
+}
+
+.section-2 .section2-right h2 {
+  margin-top: 35px;
+  font-size: 44px;
+}
+
+.section-2 .section2-right p {
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+.section-3 {
+  padding-top: 200px;
+  text-align: left;
+}
+
+.section-3 h2 {
+  font-size: 44px;
+  line-height: 60px;
+  text-align: center;
+  padding: 0 100px 0 100px;
+}
+
+.section-3 .content-section3 {
+  margin: 30px 100px 0 100px;
+}
+
+.section-3 .content-section3 h3 {
+  font-size: 30px;
+  line-height: 36px;
+}
+
+.section-3 .content-section3 p {
+  font-size: 20px;
+  line-height: 34px;
+  margin-bottom: 10px;
+}
+
+.shadow {
+  height: 270px;
+  position: relative;
+  left: 8%;
+}
+
+.shadow .div-box-shadow1 {
+  width: 980px;
+  height: 231px;
+  position: absolute;
+  top: 12%;
+  left: -3%;
+  background: #eef6fd;
+}
+
+.shadow .div-box-shadow2 {
+  width: 980px;
+  height: 231px;
+  left: -1.5%;
+  top: 7%;
+  position: absolute;
+  background: #c6e2fa;
+}
+
+.shadow .content-block {
+  width: 980px;
+  height: 231px;
+  font-size: 25px;
+  line-height: 36px;
+  position: absolute;
+  margin: 0 auto;
+  display: block;
+  clear: both;
+  padding: 75px 140px 0;
+  color: white;
+  text-align: center;
+  border-radius: 3px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-image: linear-gradient(140deg, #2072ff, #0451e5);
+}
+
+.section-4 {
+  margin-top: 150px;
+}
+
+.section-4 h2 {
+  font-size: 44px;
+  line-height: 60px;
+}
+
+.section-4 h2 b {
+  color: red;
+}
+
+.section-4 .div-layout-grid {
+  padding-top: 100px;
+}
+
+.section-4 .div-layout-grid .col-md-4 {
+  text-align: center;
+  height: 250px;
+}
+
+.section-4 .div-layout-grid .col-md-4 .content-layout {
+  margin: 0 auto;
+  font-size: 20px;
+  line-height: 28px;
+  width: 220px;
+  height: 56px;
+  text-align: center;
+}
+
+.section-5 {
+  margin-top: 100px;
+  text-align: left;
+}
+
+.section-5 .section5-left h2 {
+  font-size: 44px;
+  line-height: 60px;
+}
+
+.section-5 .section5-left h2 span {
+  text-decoration: line-through;
+}
+
+.section-5 .section5-left p {
+  font-size: 20px;
+  line-height: 34px;
+  margin-top: 50px;
+}
+
+.section-5 .section5-right img {
+  width: 100%;
+}
+
+.section-6 {
+  margin-top: 150px;
+}
+
+.section-6 h2 {
+  font-size: 44px;
+  line-height: 60px;
+  padding: 0 170px;
+  margin-bottom: 100px;
+}
+
+.section-6 .content-section-6 {
+  margin: 0 auto;
+  width: 370px;
+  height: 108px;
+  font-size: 25px;
+  line-height: 36px;
+  text-align: center;
+}
+
+.section-6 .btn {
+  padding: 150px 0;
+}
+
+.section-6 .btn a {
+  text-decoration: none;
+}
+
+.section-6 .btn .btn-book {
+  width: 300px;
+  height: 70px;
+  padding: 20.5px 33px;
+  border: 4px solid #055ffb;
+  background-color: #055ffb;
+  font-size: 18px;
+  color: white;
+  border-radius: 4px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.section-6 .btn .btn-book:hover, .section-6 .btn .btn-book:focus, .section-6 .btn .btn-book:active {
+  color: black;
+}
+
+.section-6 .background-section img {
+  width: 100%;
+}
+
+.section-7 {
+  width: 100%;
+  height: 692px;
+  background-color: #1160f1;
+  padding-top: 100px;
+}
+
+.section-7 .content-section7 {
+  margin: 0 auto;
+  width: 836px;
+  height: 442px;
+}
+
+.section-7 .content-section7 div {
+  margin-bottom: 50px;
+}
+
+.section-7 .content-section7 div strong {
+  font-size: 20px;
+  line-height: 34px;
+  color: white;
+}
+
+.section-7 .content-section7 div h3 {
+  font-size: 34px;
+  line-height: 45px;
+  color: white;
+}
+
+.section-7 .content-section7 div p {
+  font-size: 25px;
+  line-height: 36px;
+  color: white;
+}
+
+.section-7 .content-section7 .btn a {
+  text-decoration: none;
+}
+
+.section-7 .content-section7 .btn .btn-book {
+  width: 300px;
+  height: 70px;
+  padding: 20.5px 33px;
+  border: 4px solid white;
+  background-color: white;
+  font-size: 18px;
+  color: #055ffb;
+  border-radius: 4px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.section-7 .content-section7 .btn .btn-book:hover, .section-7 .content-section7 .btn .btn-book:focus, .section-7 .content-section7 .btn .btn-book:active {
+  color: black;
+}
+
+.section-8 {
+  padding-top: 150px;
+  text-align: left;
+}
+
+.section-8 .sticky-heading {
+  position: -webkit-sticky;
+  position: sticky;
+  display: block;
+  top: 0px;
+  bottom: auto;
+  width: 287px;
+}
+
+.section-8 .sticky-heading h3 {
+  font-size: 44px;
+  line-height: 60px;
+}
+
+.section-8 .form-group {
+  height: 350px;
+  margin-bottom: 130px;
+  padding: 40px;
+  border-radius: 12px;
+  background-color: #f4f9fe;
+}
+
+.section-8 .form-group label {
+  font-size: 22px;
+  line-height: 36px;
+}
+
+.section-8 .form-group p {
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.section-8 #col-mid-3 {
+  padding-top: 200px;
+}
+
+.section-8 .background-section img {
+  width: 100%;
+}
+
+.section-9 {
+  width: 100%;
+  height: 692px;
+  background-color: #1160f1;
+  padding-top: 100px;
+}
+
+.section-9 .content-section-9 {
+  margin: 0 auto;
+  width: 836px;
+  height: 442px;
+}
+
+.section-9 .content-section-9 div {
+  margin-bottom: 50px;
+}
+
+.section-9 .content-section-9 div h3 {
+  font-size: 34px;
+  line-height: 45px;
+  color: white;
+}
+
+.section-9 .content-section-9 div h4 {
+  font-size: 25px;
+  line-height: 36px;
+  color: white;
+}
+
+.section-9 .content-section-9 div p {
+  font-size: 20px;
+  line-height: 32px;
+  color: white;
+}
+
+.section-9 .content-section-9 .btn a {
+  text-decoration: none;
+}
+
+.section-9 .content-section-9 .btn .btn-book {
+  width: 300px;
+  height: 70px;
+  padding: 20.5px 33px;
+  border: 4px solid white;
+  background-color: white;
+  font-size: 18px;
+  color: #055ffb;
+  border-radius: 4px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.section-9 .content-section-9 .btn .btn-book:hover, .section-9 .content-section-9 .btn .btn-book:focus, .section-9 .content-section-9 .btn .btn-book:active {
+  color: black;
+}
+
+.section-10 {
+  padding-top: 150px;
+  height: 525px;
+}
+
+.section-10 div {
+  margin-bottom: 50px;
+}
+
+.section-10 div h2 {
+  font-size: 41px;
+  line-height: 60px;
+}
+
+.section-10 div p {
+  margin: 0 auto;
+  font-size: 20px;
+  line-height: 32px;
+  width: 786px;
+  height: 64px;
+  text-align: center;
+  padding: 0 86px;
+}
+
+.section-10 .form-submit form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0 250px;
+}
+
+.section-10 .form-submit form .txtSubmit {
+  margin: 0 auto;
+  display: block;
+  background-color: rgba(5, 95, 251, 0.1);
+  color: #131415;
+  border: 1px #000;
+  border-radius: 4px;
+  padding: 20px;
+  font-size: 18px;
+}
+
+.section-10 .form-submit form .btnSubmit {
+  margin: 0 auto;
+  display: block;
+  font-size: 18px;
+  line-height: 26px;
+  background-color: #055ffb;
+  border-radius: 4px;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=style.css.map */

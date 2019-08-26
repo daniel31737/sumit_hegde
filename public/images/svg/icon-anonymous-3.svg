@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Group 11 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-14.512233%" y1="47.7763152%" x2="106.844805%" y2="61.6174965%" id="linearGradient-1">
+            <stop stop-color="#9FD6FF" offset="0%"></stop>
+            <stop stop-color="#D4E8F9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="37.6848172%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#2072FF" offset="0%"></stop>
+            <stop stop-color="#0451E5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-11-Copy" fill-rule="nonzero">
+            <path d="M18.828125,80 L0,80 L0,51.71875 L18.828125,51.71875 L37.65625,51.71875 L37.65625,80 L18.828125,80 Z" id="Combined-Shape" fill="#FF2327"></path>
+            <path d="M18.828125,47.03125 L12.8863525,37.65625 L0,37.65625 L0,18.75 L18.828125,18.75 L37.65625,18.75 L37.65625,37.65625 L24.7698975,37.65625 L18.828125,47.03125 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+            <path d="M61.171875,80 L42.34375,80 L42.34375,32.96875 L61.171875,32.96875 L80,32.96875 L80,80 L61.171875,80 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+            <path d="M61.171875,28.28125 L55.2301025,18.90625 L42.34375,18.90625 L42.34375,0 L61.171875,0 L80,0 L80,18.90625 L67.1136475,18.90625 L61.171875,28.28125 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+        </g>
+    </g>
+</svg>

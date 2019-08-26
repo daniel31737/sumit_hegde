@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="80px" viewBox="0 0 92 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Group 12 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="20.3458273%" y1="0%" x2="79.6541727%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF5D05" offset="0%"></stop>
+            <stop stop-color="#FF2327" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="70.9982344%" x2="2.36468689%" y2="46.0625269%" id="linearGradient-2">
+            <stop stop-color="#9FD6FF" offset="0%"></stop>
+            <stop stop-color="#D4E8F9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="30.7894513%" y1="45.6841258%" x2="50%" y2="54.3158742%" id="linearGradient-3">
+            <stop stop-color="#2072FF" offset="0%"></stop>
+            <stop stop-color="#0451E5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#2A38EB" offset="0%"></stop>
+            <stop stop-color="#01066E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-12-Copy" fill-rule="nonzero">
+            <polygon id="Path" fill="url(#linearGradient-1)" points="80.4100448 -1.0658141e-13 73.8640359 15.8032287 77.4290583 22.2263677 84.4349776 20.1818834 90.9809865 4.37865471"></polygon>
+            <path d="M45.9192825,79.7890583 L5.71986902e-13,79.7890583 L5.71986902e-13,46.0794619 L11.3745291,40.421704 L17.032287,29.0473543 L45.9192825,29.0473543 L91.838565,29.0473543 L91.838565,79.7890583 L45.9192825,79.7890583 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+            <path d="M45.9194619,60.049148 C44.4744395,61.1634081 42.4941704,62.6373094 38.9336323,62.6373094 C35.3006278,62.6373094 33.3112108,61.101704 31.8586547,59.9806278 C30.618296,59.023139 29.8695964,58.4452018 28.0717489,58.4452018 L28.0717489,53.0640359 C31.7047534,53.0640359 33.6941704,54.5996413 35.1467265,55.7207175 C36.3870852,56.6782063 37.1357848,57.2561435 38.9336323,57.2561435 C40.7314798,57.2561435 41.4801794,56.6782063 42.7205381,55.7207175 C43.5454524,55.0839604 44.5448881,54.3141151 45.9193698,53.7672115 C46.9646637,53.3510314 48.2261883,53.0638565 49.7956951,53.0638565 C53.4286996,53.0638565 55.4179372,54.5994619 56.8704933,55.7207175 C58.1106726,56.6782063 58.8593722,57.2559641 60.656861,57.2561435 L60.656861,62.6373094 C57.0238565,62.6373094 55.0346188,61.101704 53.5820628,59.9804484 C52.3418834,59.023139 51.5931839,58.4452018 49.7955157,58.4452018 C47.9976682,58.4452018 47.2489686,59.023139 46.0084305,59.9806278 C45.97943,60.0028257 45.9488216,60.0262742 45.9194582,60.049012 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+            <polygon id="Path" fill="#B2D4F9" points="1.59872116e-13 46.0794619 17.032287 46.0794619 17.032287 29.0473543"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-4)" points="59.0204484 51.6387444 60.6570404 62.63713 69.5913901 56.0173991 84.4349776 20.1818834 73.8640359 15.8032287"></polygon>
+        </g>
+    </g>
+</svg>

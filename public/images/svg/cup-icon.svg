@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Group 7 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="39.6097411%" y1="46.0576955%" x2="59.1553527%" y2="70.5963132%" id="linearGradient-1">
+            <stop stop-color="#9FD6FF" offset="0%"></stop>
+            <stop stop-color="#D4E8F9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="39.6099935%" y1="46.0576955%" x2="59.1551302%" y2="70.5963132%" id="linearGradient-2">
+            <stop stop-color="#9FD6FF" offset="0%"></stop>
+            <stop stop-color="#D4E8F9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.7385106%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#2072FF" offset="0%"></stop>
+            <stop stop-color="#0451E5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="42.0684848%" y1="-29.1540448%" x2="67.4879195%" y2="139.707079%" id="linearGradient-4">
+            <stop stop-color="#9FD6FF" offset="0%"></stop>
+            <stop stop-color="#D4E8F9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="7.14968858%" x2="100%" y2="92.8503114%" id="linearGradient-5">
+            <stop stop-color="#FF5D05" offset="0%"></stop>
+            <stop stop-color="#FF2327" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7-Copy" transform="translate(0.000000, 0.000000)" fill-rule="nonzero">
+            <path d="M51.4157812,27.7863281 L50.3537109,24.4348828 C54.0207422,23.2729688 56.484375,19.9052344 56.484375,16.0546875 L56.484375,7.265625 L51.2109375,7.265625 L51.2109375,5.5078125 C51.2109375,4.53703125 51.9979687,3.75 52.96875,3.75 L60,3.75 L60,16.0546875 C60,18.7210547 59.1609375,21.2582812 57.5736328,23.3922656 C56.0182031,25.4832422 53.8890234,27.0026953 51.4157813,27.7863281 L51.4157812,27.7863281 Z" id="Path" fill="url(#linearGradient-1)"></path>
+            <path d="M8.58410156,27.7863281 C6.11097656,27.0025781 3.98167969,25.4832422 2.42636719,23.3922656 C0.8390625,21.2582812 -1.81188398e-13,18.7209375 -1.81188398e-13,16.0546875 L-1.81188398e-13,3.75 L7.03125,3.75 C8.00203125,3.75 8.7890625,4.53703125 8.7890625,5.5078125 L8.7890625,7.265625 L3.515625,7.265625 L3.515625,16.0546875 C3.515625,19.9052344 5.97925781,23.2729688 9.64617187,24.435 L8.58410156,27.7863281 Z" id="Path" fill="url(#linearGradient-2)"></path>
+            <polygon id="Path" fill="url(#linearGradient-3)" points="42.453125 3.75 40.6953125 23.0859375 40.6953125 44.7721875 45.9557422 39.6213281 51.2421875 44.9077734 51.2421875 3.75"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-3)" points="15.9375 3.75 7.1484375 3.75 7.1484375 44.7721875 12.4088672 39.6213281 17.6953125 44.9077734 17.6953125 23.0859375"></polygon>
+            <path d="M45.8203125,23.0859375 L45.8203125,0 L14.1796875,0 L14.1796875,23.0859375 C14.1796875,29.8453125 18.4523438,35.7960937 24.7265625,38.00625 L24.7265625,49.453125 L19.8679687,49.453125 C16.7320312,49.453125 14.1796875,52.0054687 14.1796875,55.1414063 L14.1796875,60 L45.8203125,60 L45.8203125,55.1414063 C45.8203125,52.0054688 43.2679688,49.453125 40.1320312,49.453125 L35.2734375,49.453125 L35.2734375,38.00625 C41.5476563,35.7960937 45.8203125,29.8441406 45.8203125,23.0859375 Z" id="Path" fill="url(#linearGradient-4)"></path>
+            <polygon id="Path" fill="url(#linearGradient-5)" points="40.8738281 13.8667969 33.328125 12.796875 30 6.21328125 26.671875 12.796875 19.1261719 13.8667969 24.5894531 19.0664062 23.3109375 26.3460938 30 22.9125 36.6890625 26.3460938 35.4105469 19.0664062"></polygon>
+        </g>
+    </g>
+</svg>
