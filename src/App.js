@@ -1,29 +1,33 @@
 import React from 'react';
-import logo from './logo.svg';
-import Header from './components/Header';
-import Section1 from './components/Section-1';
-import Section2 from './components/Section-2';
-import Section3 from './components/Section-3';
-import Section4 from './components/Section-4';
-import Section5 from './components/Section-5';
-import Section6 from './components/Section-6';
-import Section7 from './components/Section-7';
-import Section8 from './components/Section-8';
-import Section9 from './components/Section-9';
-import Section10 from './components/Section-10';
-import Logos from './components/Logos';
-import Shadow from './components/Shadow';
+import Header from './components/Header/Header';
+import Section1 from './components/Section-1/index';
+import Section2 from './components/Section-2/index';
+import Section3 from './components/Section-3/index';
+import Section4 from './components/Section-4/index';
+import Section5 from './components/Section-5/index';
+import Section6 from './components/Section-6/index';
+import Section7 from './components/Section-7/index';
+import Section8 from './components/Section-8/index';
+import Section9 from './components/Section-9/index';
+import Section10 from './components/Section-10/index';
+import Logos from './components/Logo/Logos';
+import Content from './components/Div-Content/Content';
 import './App.css';
+import './scss/style.scss';
 
 function App() {
     return (
         <div>
             <header>
-                <Header />
+                <div className="container">
+                    <Header />
+                </div>
             </header>
             <main>
                 <section className="section-1">
-                    <Section1 />
+                    <div className="container">
+                        <Section1 />
+                    </div>
                 </section>
                 <div className="container">
                     <Logos />
@@ -35,7 +39,7 @@ function App() {
                     <Section3 />
                 </section>
                 <div className="container">
-                    <Shadow />
+                    <Content />
                 </div>
                 <section className="section-4">
                     <Section4 />
